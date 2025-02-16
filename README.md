@@ -91,7 +91,7 @@
 
 <a href="https://github.com/Goshko07/mobile/blob/main/README.md">Тестирование мобильных приложений </a>
 
-<a href="https://github.com/Goshko07/git_bash/blob/main/README.md">ТРабота с git и bash </a>
+<a href="https://github.com/Goshko07/git_bash/blob/main/README.md">Работа с git и bash </a>
 
 
 
