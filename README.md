@@ -13,7 +13,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="@Vero30nika" target="_blank">
+    <a href="https://t.me/Vero30nika" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
@@ -75,6 +75,29 @@
 </div>
 
 ---
+
+###  📋 Тестовые артефакты:
+<a href="https://github.com/Goshko07/theory">Теория тестирования </a>
+
+<a href="https://github.com/Goshko07/design">Техники тест-дизайна </a>
+
+<a href="https://github.com/Goshko07/docs">Тестовая документация </a>
+
+<a href="https://github.com/Goshko07/web">Тестирование веб-приложений </a>
+
+<a href="https://github.com/Goshko07/api">Тестирование API </a>
+
+<a href="https://github.com/Goshko07/database">Работа с базами данных </a>
+
+<a href="https://github.com/Goshko07/mobile/blob/main/README.md">Тестирование мобильных приложений </a>
+
+<a href="https://github.com/Goshko07/git_bash/blob/main/README.md">ТРабота с git и bash </a>
+
+
+
+
+
+
 
 <!-- ### 💻 Пройденные курсы:
 
